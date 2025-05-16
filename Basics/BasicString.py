@@ -3,6 +3,10 @@
 message = "Hello World"
 print(message)
 
+#single quote vs double quote
+message = 'Learner\'s World' #escape by backslash or write with double quotes
+print(message)
+
 #Step 2: Adding the basic sub string manipulations examples
 
 message_2 = "Thisisalongstring"
