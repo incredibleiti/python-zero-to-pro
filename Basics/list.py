@@ -78,3 +78,7 @@ print(courses_string)
 #we can now split it as well
 new_list = courses_string.split('-')
 print(new_list)
+
+#create an empty list
+empty_list = list()
+print(empty_list)
