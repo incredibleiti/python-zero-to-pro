@@ -23,7 +23,7 @@ message_3 = "LETS_CHECK_MORE"
 print(message_3[::2])  # start and end index default and we print every second char
 print(message_3[::-1]) #leave the start and end empty and just add -1 in the step
 
-#Step 5: Sample on url value
+#Step 5: Sample on url values
 url = "https://www.google.com"
 print(url)
 #print top level domain
