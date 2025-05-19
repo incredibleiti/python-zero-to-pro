@@ -81,4 +81,4 @@ print(new_list)
 
 #create an empty list
 empty_list = list()
-print(empty_list)
+print(empty_list) 
