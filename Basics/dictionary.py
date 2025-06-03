@@ -8,3 +8,7 @@ teacher = {1: "John", "lastname": "Doe", "subjects": ["English", "Maths"]}
 print(teacher)
 print(teacher[1])
 print(teacher["subjects"])
+
+#will give error when key doesnt exists (so use getmethod)
+print(teacher.get(1))
+print(teacher.get("age")) #this will return None
